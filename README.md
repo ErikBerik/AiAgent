@@ -1,0 +1,1 @@
+A toy example of an ai agent using the google Gemini API, built as a boot.dev exercise
